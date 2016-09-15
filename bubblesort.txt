@@ -1,0 +1,2 @@
+Compare a primeira carta com as demais virando apenas de duas a duas, 
+fazendo sempre com que a carta de menor valor fique a esquerda e desvirando.
