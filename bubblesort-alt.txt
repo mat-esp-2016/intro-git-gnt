@@ -1,0 +1,2 @@
+Compare carta a carta com a seguinte a partir da primeira (consecutivamente) até a quinta carta e trocando para que a de menor valor se mantenha a esquerda.
+Faça isso até que não haja mais troca em uma passada completa
