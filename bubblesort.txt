@@ -1,2 +1,13 @@
-Compare a primeira carta com as demais virando apenas de duas a duas, 
-fazendo sempre com que a carta de menor valor fique a esquerda e desvirando.
+Desvire a primeira e segunda carta. Se a primeira for maior que a segunda, troqueas de lugar e vire-as de novo.
+Desvire a primeira e terceira carta. Se a primeira for maior que a terceira, troqueas de lugar e vire-as de novo.
+Desvire a primeira e quarta carta. Se a primeira for maior que a quarta, troqueas de lugar e vire-as de novo.
+Desvire a primeira e quinta carta. Se a primeira for maior que a quinta, troqueas de lugar e vire-as de novo.
+
+Desvire a segunda e terceira carta. Se a segunda for maior que a terceira, troqueas de lugar e vire-as de novo.
+Desvire a segunda e quarta carta. Se a segunda for maior que a quarta, troqueas de lugar e vire-as de novo.
+Desvire a segunda e quinta carta. Se a segunda for maior que a quinta, troqueas de lugar e vire-as de novo.
+
+Desvire a terceira e quarta carta. Se a terceira for maior que a quarta, troqueas de lugar e vire-as de novo.
+Desvire a terceira e quinta carta. Se a terceira for maior que a quinta, troqueas de lugar e vire-as de novo.
+
+Desvire a quarta e quinta carta. Se a quarta for maior que a quinta, troqueas de lugar e vire-as de novo.
