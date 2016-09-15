@@ -1,5 +1,7 @@
-Compare a primeira com a segunda carta, se a menor estiver a direita, troque-as e desvire-as.
-Compare a segunda com a terceira, se a menor estiver a direita, troque-as e desvire-as.
-Compare a terceira com a quarta, se a menor estiver a direita, troque-as e desvire-as.
-Compare a quarta com a quinta carta, se a menor estiver a direita, troque-as e desvire-as.
-Repita isso até que não precise trocar nenhuma carta em toda passada.
+N cartas numeradas de 1 a N
+Para carta final indo de N-1 até 2, de -1 em -1
+Para a carta i indo de 1 até a carta final de 1 em 1:
+	Desvirar a carta i e a carta i+1
+	Se o valor da carta i>valor da carta i+1:
+		troque-as de lugar
+	Virar carta i e i+1
