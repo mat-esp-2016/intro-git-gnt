@@ -1,13 +1,7 @@
-Desvire a primeira e segunda carta. Se a primeira for maior que a segunda, troqueas de lugar e vire-as de novo.
-Desvire a primeira e terceira carta. Se a primeira for maior que a terceira, troqueas de lugar e vire-as de novo.
-Desvire a primeira e quarta carta. Se a primeira for maior que a quarta, troqueas de lugar e vire-as de novo.
-Desvire a primeira e quinta carta. Se a primeira for maior que a quinta, troqueas de lugar e vire-as de novo.
+a=1, sendo 0<a e "a" pertencendo aos inteiros
+N - numero maximo de cartas
 
-Desvire a segunda e terceira carta. Se a segunda for maior que a terceira, troqueas de lugar e vire-as de novo.
-Desvire a segunda e quarta carta. Se a segunda for maior que a quarta, troqueas de lugar e vire-as de novo.
-Desvire a segunda e quinta carta. Se a segunda for maior que a quinta, troqueas de lugar e vire-as de novo.
-
-Desvire a terceira e quarta carta. Se a terceira for maior que a quarta, troqueas de lugar e vire-as de novo.
-Desvire a terceira e quinta carta. Se a terceira for maior que a quinta, troqueas de lugar e vire-as de novo.
-
-Desvire a quarta e quinta carta. Se a quarta for maior que a quinta, troqueas de lugar e vire-as de novo.
+Vire as cartas de posição a e (a+1), se valor em a>(a+1) troque-as de lugar e desvire.
+	Some 1 a "a" até (a+1=N)
+	Pare se N=2
+Se a=N subtraia 1 a N e repita o processo desde o começo
