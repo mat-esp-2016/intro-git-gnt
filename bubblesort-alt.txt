@@ -1,2 +1,5 @@
-Compare carta a carta com a seguinte a partir da primeira (consecutivamente) até a quinta carta e trocando para que a de menor valor se mantenha a esquerda.
-Faça isso até que não haja mais troca em uma passada completa
+Compare a primeira com a segunda carta, se a menor estiver a direita, troque-as e desvire-as.
+Compare a segunda com a terceira, se a menor estiver a direita, troque-as e desvire-as.
+Compare a terceira com a quarta, se a menor estiver a direita, troque-as e desvire-as.
+Compare a quarta com a quinta carta, se a menor estiver a direita, troque-as e desvire-as.
+Repita isso até que não precise trocar nenhuma carta em toda passada.
